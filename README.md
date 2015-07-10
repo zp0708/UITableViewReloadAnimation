@@ -1,6 +1,6 @@
 # UITableViewReloadAnimation
 刷新TableView时动画加载cell
-######讲文件加入项目,导入头文件
+######将文件加入项目,导入头文件
 <pre><code>
 #import "UITableView+Extension.h"
 </code></pre>
