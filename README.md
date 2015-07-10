@@ -2,6 +2,10 @@
 刷新TableView时动画加载cell
 ######将文件加入项目,导入头文件
 <pre><code>
+UITableView+Extension.h
+UITableView+Extension.m
+</code></pre>
+<pre><code>
 #import "UITableView+Extension.h"
 </code></pre>
 
